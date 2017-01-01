@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///media/public/Android/AndroidStudioProjects_jessie_homedir/Samples/Android02_Write2Logcat/Android02_Write2Logcat.iml" filepath="/media/public/Android/AndroidStudioProjects_jessie_homedir/Samples/Android02_Write2Logcat/Android02_Write2Logcat.iml" />
+      <module fileurl="file:///media/public/Android/AndroidStudioProjects_jessie_homedir/Samples/Android02_Write2Logcat/app/app.iml" filepath="/media/public/Android/AndroidStudioProjects_jessie_homedir/Samples/Android02_Write2Logcat/app/app.iml" />
+    </modules>
+  </component>
+</project>
